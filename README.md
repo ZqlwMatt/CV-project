@@ -27,3 +27,12 @@ This repo contains the projects of computer vision and computer graphics, which 
 - Outcome：
 
     ![display_cv2](https://user-images.githubusercontent.com/34508318/177047177-04698131-3980-4d19-a49a-918876db0de0.jpg)
+
+
+
+## Project 3. Laplacian Surface Editing
+
+- 
+
+- 
+- 
