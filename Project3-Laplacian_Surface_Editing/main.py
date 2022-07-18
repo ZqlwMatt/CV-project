@@ -100,12 +100,12 @@ if __name__ == "__main__":
     
     b = np.hstack((np.zeros(3*n), b))
     Lp = scipy.sparse.coo_matrix(Lp)
-    new_V = scipy.sparse.linalg.lsqr(Lp, b)[0]
+    Vp = scipy.sparse.linalg.lsqr(Lp, b)[0]
     print('Equation is solved.')
 
     # modify deformation points
     for i in range(n):
-        vertex[subToAbs[i]] = np.array([new_V[i], new_V[i+n], new_V[i+2*n]])
+        vertex[subToAbs[i]] = np.array([Vp[i], Vp[i+n], Vp[i+2*n]])
     ply_vertex, ply_face = numpyToPly(vertex, face)
     PlyData([ply_vertex, ply_face], text=True).write(PATH+'result.ply')
     print("finish!")

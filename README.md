@@ -2,6 +2,14 @@
 
 This repo contains the projects of computer vision and computer graphics, which are my reproductions of papers.
 
+---
+
+- [x] Poisson Image Editing
+- [x] GrabCut
+- [x] Laplacian Surface Editing
+
+---
+
 
 
 ## Project 1. Poisson Image Editing
@@ -32,7 +40,10 @@ This repo contains the projects of computer vision and computer graphics, which 
 
 ## Project 3. Laplacian Surface Editing
 
-- 
+- Paper：https://cdn.zmatt.cn/static/files/cg/Laplacian_mesh_editing.pdf
 
-- 
-- 
+- Report：https://cdn.zmatt.cn/static/files/cg/project3_report.pdf
+
+- Outcome：
+
+    ![display_cv3](https://user-images.githubusercontent.com/34508318/179464260-8dde0f5b-6d0e-41f9-a049-d303329b716c.jpg)
