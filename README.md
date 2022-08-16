@@ -7,6 +7,7 @@ This repo contains the projects of computer vision and computer graphics, which 
 - [x] Poisson Image Editing
 - [x] GrabCut
 - [x] Laplacian Surface Editing
+- [x] SMPL
 
 ---
 
@@ -14,9 +15,7 @@ This repo contains the projects of computer vision and computer graphics, which 
 
 ## Project 1. Poisson Image Editing
 
-
-
-- Paper: https://cdn.zmatt.cn/static/files/cg/2003_siggraph_perez(Poisson_Image_Editing).pdf
+- Paper: [Poisson Image Editing](https://www.cs.jhu.edu/~misha/Fall07/Papers/Perez03.pdf)
 
 - Report：https://cdn.zmatt.cn/static/files/cg/project1_report.pdf
 
@@ -28,7 +27,7 @@ This repo contains the projects of computer vision and computer graphics, which 
 
 ## Project 2. GrabCut
 
-- Paper：https://cdn.zmatt.cn/static/files/cg/grabcut-siggraph04.pdf
+- Paper：[“GrabCut” — Interactive Foreground Extraction using Iterated Graph Cuts](https://cvg.ethz.ch/teaching/cvl/2012/grabcut-siggraph04.pdf)
 
 - Report：https://cdn.zmatt.cn/static/files/cg/project2_report.pdf
 
@@ -40,10 +39,17 @@ This repo contains the projects of computer vision and computer graphics, which 
 
 ## Project 3. Laplacian Surface Editing
 
-- Paper：https://cdn.zmatt.cn/static/files/cg/Laplacian_mesh_editing.pdf
+- Paper：[Laplacian Surface Editing](https://people.eecs.berkeley.edu/~jrs/meshpapers/SCOLARS.pdf)
 
 - Report：https://cdn.zmatt.cn/static/files/cg/project3_report.pdf
 
 - Outcome：
 
     ![display_cv3](https://user-images.githubusercontent.com/34508318/179464260-8dde0f5b-6d0e-41f9-a049-d303329b716c.jpg)
+
+
+
+## Project 4. SMPL
+
+- Paper: [SMPL: A Skinned Multi-Person Linear Model](https://files.is.tue.mpg.de/black/papers/SMPL2015.pdf)
+- Solution: https://github.com/CalciferZh/SMPL-AMC-Imitator
