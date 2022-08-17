@@ -7,6 +7,6 @@ A lightweight implmentation can be found on [github](https://github.com/Calcifer
 **Note:**
 
 1. You can download the pdf version [Appendix.pdf](./Appendix.pdf).
-2. I have uploaded a [report](./Report_MoCap_data_decorated_with_SMPL.pdf) on the project.
+2. I have uploaded a [report](./Report_MoCap_data_skinning_with_SMPL.pdf) on the project.
 
 ![](./Appendix.png)
