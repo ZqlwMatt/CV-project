@@ -51,5 +51,10 @@ This repo contains the projects of computer vision and computer graphics, which 
 
 ## Project 4. SMPL
 
-- Paper: [SMPL: A Skinned Multi-Person Linear Model](https://files.is.tue.mpg.de/black/papers/SMPL2015.pdf)
-- Solution: https://github.com/CalciferZh/SMPL-AMC-Imitator
+- Paper：[SMPL: A Skinned Multi-Person Linear Model](https://files.is.tue.mpg.de/black/papers/SMPL2015.pdf)
+
+- Solution：https://github.com/CalciferZh/SMPL-AMC-Imitator
+
+- Outcome：
+
+    ![](https://user-images.githubusercontent.com/34508318/185177788-b8846fde-66c7-4255-a54b-a9465f0be585.jpg)
